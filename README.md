@@ -4,4 +4,4 @@ This is a Test Repository. I have created it to learn about repositries in githu
 Author: Muneeb Shafique
 
 # Benifits
-This repositry will help you in many ways.
+Bhai iske to faede hee faede hainnn.. apko kya pata hooo
